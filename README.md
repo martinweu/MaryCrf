@@ -70,6 +70,6 @@ viterbi_crf = crf.viterbi(test_x)
 ```
 
 ## Results
-![The real test state sequence](https://github.com/napster2202/MaryCrf/docs/real_1.png "The real test state sequence")
-![Trace found by an HMM simulated by an CRF](https://github.com/napster2202/MaryCrf/docs/hmm_1.png "Trace found by an HMM simulated by an CRF")
-![Trace found by an CRF with observation indicated transitions](https://github.com/napster2202/MaryCrf/docs/crf_1.png "Trace found by an CRF with observation indicated transitions")
+![The real test state sequence](https://github.com/napster2202/MaryCrf/blob/master/docs/real_1.png "The real test state sequence")
+![Trace found by an HMM simulated by an CRF](https://github.com/napster2202/MaryCrf/blob/master/docs/hmm_1.png "Trace found by an HMM simulated by an CRF")
+![Trace found by an CRF with observation indicated transitions](https://github.com/napster2202/MaryCrf/blob/master/docs/crf_1.png "Trace found by an CRF with observation indicated transitions")
