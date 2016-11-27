@@ -3,6 +3,8 @@ MaryCrf is an easy to use library for linear-chain Conditional Random Fields
 with freely definable feature functions. The math and algorithms will be derived
 and explained in the first part. The second part shows how to use and adapt MaryCrf for your task.
 
+Full Documentatio is [here](https://github.com/napster2202/MaryCrf/blob/master/docs/MaryCrf.pdf)
+
 ## Adder-Example
 In this example we will illustrate the advantages of the more flexible feature
 functions by comparing a CRF restricted to HMM-like feature functions
